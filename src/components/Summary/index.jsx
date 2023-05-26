@@ -40,13 +40,14 @@ const index = () => {
     <div className="flex flex-col gap-y-4 px-10 py-5 xl:w-1/2">
       <h3 className="text-neutral-dark-gray-blue">Summary</h3>
       <div className="flex flex-col gap-y-3">
-        {data.map((d) => (
+        {data.map((d, i) => (
           <Card
             score={d.score}
             color={d.color}
             icon={d.icon}
             label={d.label}
             gradient={d.gradient}
+            key={i}
           />
         ))}
       </div>
