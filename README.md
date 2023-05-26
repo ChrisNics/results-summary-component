@@ -34,9 +34,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://res.cloudinary.com/dj6gipxny/image/upload/v1685071106/Screenshot_2023-05-26_at_11-16-00_Screenshot_ycwbg1.png)
-![](https://res.cloudinary.com/dj6gipxny/image/upload/v1685071132/Screenshot_2023-05-26_at_11-16-29_Screenshot_xuin6s.png)
-![](https://res.cloudinary.com/dj6gipxny/image/upload/v1685071139/Screenshot_2023-05-26_at_11-17-10_Screenshot_yuatw9.png)
+![](https://res.cloudinary.com/dj6gipxny/image/upload/v1685091289/Screenshot_2023-05-26_at_16-53-59_Results_Summary_Component_idpxaw.png)
+![](https://res.cloudinary.com/dj6gipxny/image/upload/v1685091289/Screenshot_2023-05-26_at_16-53-40_Results_Summary_Component_y1vr0o.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -48,8 +47,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/agecalculatorapp-m7gl9RkU1n)
-- Live Site URL: [Add live site URL here](https://age-calculator-app-chrisnics.vercel.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/results-summary-component-LaleUd9fud)
+- Live Site URL: [Add live site URL here](https://results-summary-component-chrisnics.vercel.app/)
 
 ## My process
 
